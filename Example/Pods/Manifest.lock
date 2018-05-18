@@ -1,0 +1,27 @@
+PODS:
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+  - UniversalExtensions (0.1.0)
+
+DEPENDENCIES:
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+  - UniversalExtensions (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  UniversalExtensions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  UniversalExtensions: 03db22895853a166e0feacc07970890fecd0d78a
+
+PODFILE CHECKSUM: 9314c520dd30f5c8d73daa9d454e8bffb69c4d29
+
+COCOAPODS: 1.5.0
